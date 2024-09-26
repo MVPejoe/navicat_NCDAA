@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/9adbd816-b43a-494d-a1d4-cfd3fa44286e)
+
 Navicat Certified Database Administrator - Associate
 
 This hands-on training course prepares database administrators to become certified database engineers using Navicat for MySQL. Learners will gain skills to efficiently administer, optimize, secure, back up, and recover MySQL databases using Navicat's graphical interface. Upon completion, learners will be certified as database engineers equipped to effectively manage MySQL environments with Navicat.
